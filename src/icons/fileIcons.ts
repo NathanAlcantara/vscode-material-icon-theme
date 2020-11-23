@@ -283,6 +283,7 @@ export const fileIcons: FileIcons = {
       fileExtensions: ['pyc', 'whl'],
       fileNames: [
         'requirements.txt',
+        'requirements-dev.txt',
         'pipfile',
         '.python-version',
         'manifest.in',
